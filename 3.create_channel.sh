@@ -1,0 +1,1 @@
+configtxgen -outputCreateChannelTx ./artifact/mychannel.tx -profile TwoOrgsApplicationGenesis -channelID mychannel1  -configPath ${PWD}/config/
